@@ -1,1 +1,4 @@
 Arquivo 2
+
+Foi necessário incluir um novo conteúdo.
+
