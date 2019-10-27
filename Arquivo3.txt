@@ -1,3 +1,6 @@
 Arquivo 3
 
 Mais um arquivo
+
+Acabo de incluir uma informação em um editor local.
+
